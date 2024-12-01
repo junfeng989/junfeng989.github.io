@@ -3,7 +3,7 @@ name: Deploy Gatsby to GitHub Pages
 on:
   push:
     branches:
-      - main  # 当推送到 main 分支时触发
+      - main  # 监听 main 分支的推送
 
 jobs:
   deploy:
@@ -18,20 +18,19 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '18' # 使用 Node.js 18.x
-        cache: 'yarn'      # 缓存 Yarn 依赖
+        node-version: '18'
 
-    # 安装依赖
+    # 安装依赖 (使用 npm)
     - name: Install dependencies
-      run: yarn install
+      run: npm install
 
     # 构建 Gatsby 网站
     - name: Build Gatsby site
-      run: yarn build
+      run: npm run build
 
     # 部署到 GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GITHUB_TOKEN }} # 使用 GitHub 提供的内置令牌
-        publish_dir: ./public # Gatsby 构建输出的目录
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public  # 确保正确指向 Gatsby 的输出目录
