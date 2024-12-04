@@ -15,8 +15,8 @@ const IndexPage = () => (
               alt="导师照片"
               placeholder="blurred"
               layout="constrained"
-              width={200}
-              height={200}
+              width={150}
+              height={150}
               style={imageStyles}
             />
             <h1>冯君 副教授</h1>
