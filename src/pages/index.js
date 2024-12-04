@@ -14,8 +14,8 @@ const IndexPage = () => (
               src="../images/leader.png"
               alt="导师照片"
               layout="constrained"
-              width={150}
-              height={150}
+              width={100}
+              height={100}
               style={imageStyles}
             />
             <h1>冯君 副教授</h1>
