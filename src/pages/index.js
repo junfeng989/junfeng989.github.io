@@ -50,7 +50,7 @@ const IndexPage = () => (
                 </ul>
         </section>
         <section style={sectionStyles}>
-          <h2>联系方式：</h2>
+          <h2>联系方式</h2>
           <p>通讯/办公地址：国家网络安全与人才创新基地明德楼A343</p>
           <p>Email: <a href="">junfeng@hust.edu.cn</a></p>
           <p>Tel/Wechat：18827365073</p>
