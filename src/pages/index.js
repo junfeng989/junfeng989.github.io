@@ -13,7 +13,7 @@ const IndexPage = () => (
             <StaticImage
               src="../images/leader.png"
               alt="导师照片"
-              placeholder="blurred"
+             // placeholder="blurred"
               layout="constrained"
               width={150}
               height={150}
