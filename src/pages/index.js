@@ -59,7 +59,7 @@ const IndexPage = () => (
         <section style={newsSectionStyles}>
           <h2>近期科研动态</h2>
           <ul style={newsListStyles}>
-            <li>{大模型安全}</li>
+            <li>大模型安全</li>
             <li>{/*2024年12月*/}</li>
             <li>{/*2024年12月*/}</li>
           </ul>
