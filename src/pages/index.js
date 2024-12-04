@@ -34,7 +34,7 @@ const IndexPage = () => (
 
             <p>邮箱：junfeng@hust.edu.cn；电话/微信：18827365073</p>
            
-            <p>官方主页：<a href="">http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm</a></p>
+            <p>官方主页：<a href="http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm">http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm</a></p>
 
                
           </div>
