@@ -31,17 +31,17 @@ const IndexPage = () => (
             <p>I'm looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
               I'm also looking for all kinds of collaborations, please drop me an email if you are interested.</p>
 
-            <p>冯君老师现招募对大数据、机器学习、隐私保护、人工智能安全、深度学习、应用密码学、张量等感兴趣的研究生以及本科实习生，欢迎积极进取、热爱科研的学生与我联系。
+            <p>冯君老师现招募对大模型安全、机器学习、隐私保护、人工智能安全、深度学习、应用密码学、张量等感兴趣的研究生以及本科实习生，欢迎积极进取、热爱科研的学生与我联系。
                官方中文主页如下：http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm</p>
           </div>
         </section>
         <section style={sectionStyles}>
               <h2>研究方向</h2>
                 <ul>
-                <li>大数据安全与隐私保护</li>
+                <li>大模型安全与隐私保护</li>
                 <li>人工智能安全</li>
                 <li>深度学习</li>
-                <li>区块链</li>
+                <li>张量人工智能</li>
                 </ul>
         </section>
         <section style={sectionStyles}>
