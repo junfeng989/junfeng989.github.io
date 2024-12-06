@@ -18,7 +18,7 @@ const IndexPage = () => (
               height={100}
               style={imageStyles}
             />
-            <h1>冯君 副教授</h1>
+            <h1>冯君 华中科技大学副教授</h1>
                   <h3>博士生导师 硕士生导师</h3>
             <p>Jun Feng is an Associate Professor in the School of Cyber Science and Engineering at Huazhong University of Science and Technology. 
                I received the PhD in the School of Computer Science and Technology at Huazhong University of Science and Technology in 2018. 
