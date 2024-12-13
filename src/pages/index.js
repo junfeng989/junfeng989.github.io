@@ -18,8 +18,8 @@ const IndexPage = () => (
               height={100}
               style={imageStyles}
             />
-            <h1>冯君 华中科技大学副教授</h1>
-                  <h3>博士生导师 硕士生导师</h3>
+            <h1>冯君 华中科技大学</h1>
+                  <h3>博士 副教授 博士生导师 硕士生导师</h3>
             <p>Jun Feng is an Associate Professor in the School of Cyber Science and Engineering at Huazhong University of Science and Technology. 
                I received the PhD in the School of Computer Science and Technology at Huazhong University of Science and Technology in 2018. 
                I have published more than 40 papers in top journals and conferences (e.g., IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Computers, AAAI, 
@@ -60,7 +60,8 @@ const IndexPage = () => (
           <h2>近期科研动态</h2>
           <ul /*style={newsListStyles}*/>
             <li>2024年立项两项大模型安全方向课题</li>
-            <li>针对联邦学习的后门攻击论文被CCF A类会议AAAI 2025录用</li>
+            <li>2024年12月，针对联邦学习的后门攻击论文被CCF A类会议AAAI 2025录用</li>
+            <li>2024年12月，安全神经网络推理论文被IEEE TIFS录用</li>
             <li>{/*2024年12月*/}</li>
           </ul>
         </section>
