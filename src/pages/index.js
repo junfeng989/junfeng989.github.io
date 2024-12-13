@@ -59,7 +59,7 @@ const IndexPage = () => (
         <section style={newsSectionStyles}>
           <h2>近期科研动态</h2>
           <ul /*style={newsListStyles}*/>
-            <li>2024年立项两项大模型安全方向课题</li>
+            <li>2024年12月，立项两项大模型安全方向课题</li>
             <li>2024年12月，针对联邦学习的后门攻击论文被CCF A类会议AAAI 2025录用</li>
             <li>2024年12月，安全神经网络推理论文被IEEE TIFS录用</li>
             <li>{/*2024年12月*/}</li>
