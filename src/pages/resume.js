@@ -13,8 +13,9 @@ const ResumePage = () => (
       
       <h2>学术成果与荣誉</h2>
       <ul>
-        <li>在信息安全领域发表重要学术论文40余篇，包括IEEE TDSC、IEEE TC、IEEE TII、ACM TOIT、IEEE TBD、IEEE TSUSC、IEEE IOT、INS、IEEE WCM等，
+        <li>在信息安全领域发表重要学术论文40余篇，包括IEEE TDSC、IEEE TC、AAAI、IEEE TII、ACM TOIT、IEEE TBD、IEEE TSUSC、IEEE IOT、INS、IEEE WCM等，
             其中第一作者IEEE/ACM Transactions论文10余篇</li>
+        <li>入选国家级博士后人才计划</li>
         <li>IEEE TCSC杰出博士论文奖获得者</li>
       </ul>
       
