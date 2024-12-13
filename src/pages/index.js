@@ -135,11 +135,11 @@ const contentStyles = {
 }
 const imageStyles = {
   borderRadius: "50%",           // 圆形边框
-%  boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",  // 添加阴影
+  boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",  // 添加阴影
   marginBottom: "20px",          // 图片与文字之间的间隔
   border: "5px solid #007acc",   // 椭圆形边框，颜色为蓝色
   objectFit: "cover",            // 确保图片内容适配
-  width: "200px",                // 固定宽度
-  height: "250px",               // 固定高度，制造椭圆效果
+  width: "100px",                // 固定宽度
+  height: "150px",               // 固定高度，制造椭圆效果
 }
 export default IndexPage
