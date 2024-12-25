@@ -87,7 +87,7 @@ const contentWrapperStyles = {
 }
 
 const leftColumnStyles = {
-  flex: "3",                     // 左侧内容宽度
+  flex: "6",                     // 左侧内容宽度
   paddingRight: "20px",           // 左右间隔
 }
 
