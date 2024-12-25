@@ -136,7 +136,7 @@ const contentStyles = {
 }
 const imageStyles = {
   borderRadius: "5%",           // 圆形边框
-  boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",  // 添加阴影
+//  boxShadow: "0 4px 12px rgba(0, 0, 0, 0.1)",  // 添加阴影
   marginBottom: "20px",          // 图片与文字之间的间隔
   border: "1px solid #007acc",   // 椭圆形边框，颜色为蓝色
   objectFit: "cover",            // 确保图片内容适配
