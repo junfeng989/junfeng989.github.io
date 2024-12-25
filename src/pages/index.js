@@ -11,7 +11,7 @@ const IndexPage = () => (
         <section style={sectionStyles}>
           <div style={contentStyles}>
             <StaticImage
-              src="../images/leader.png"
+              src="../images/JunFeng.jpg"
               alt="导师照片"
               layout="constrained"
               width={100}
