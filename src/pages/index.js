@@ -82,7 +82,7 @@ const contentWrapperStyles = {
   display: "flex",               // 使用 Flex 布局
   justifyContent: "space-between", // 左右内容分布
   padding: "0 20px",             // 页面左右内边距
-  maxWidth: "1200px",            // 设置页面最大宽度
+  maxWidth: "1600px",            // 设置页面最大宽度
   margin: "0 auto",              // 内容居中
 }
 
