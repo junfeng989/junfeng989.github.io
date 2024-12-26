@@ -21,7 +21,7 @@ const IndexPage = () => (
             <h1>冯君 华中科技大学</h1>
                   <h3>博士 副教授 博士生导师 硕士生导师</h3>
             <p>Jun Feng is an Associate Professor in the School of Cyber Science and Engineering at Huazhong University of Science and Technology. 
-               I received the PhD in the School of Computer Science and Technology at Huazhong University of Science and Technology in 2018. 
+               I received the PhD in the School of Computer Science and Technology at Huazhong University of Science and Technology. 
                I have published more than 40 papers in top journals and conferences (e.g., IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Computers, IEEE Transactions on Information Forensics and Security, AAAI, 
                IEEE Transactions on Industrial Informatics, IEEE Transactions on Big Data, IEEE Transactions on Sustainable Computing, IEEE Wireless Communications, 
                IEEE Internet of Things Journal, Information Sciences, ACM Transactions on Internet Technology). I am particularly interested in privacy-preserving 
