@@ -27,10 +27,10 @@ const IndexPage = () => (
                IEEE Internet of Things Journal, Information Sciences, ACM Transactions on Internet Technology). I am particularly interested in privacy-preserving 
                machine learning, differential privacy, AI security and privacy, deep learning, and big data.</p>
 
-            <p>I'm looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
+            <p>We are hiring! I'm looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
               I'm also looking for all kinds of collaborations, please drop me an email if you are interested.</p>
 
-            <p>冯君老师现招募对大模型安全与隐私保护、隐私保护机器学习、人工智能、深度学习、应用密码学、张量等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系。</p>
+            <p>冯君老师现招募对大模型安全与隐私保护、隐私保护机器学习、人工智能、深度学习、同态加密、安全多方计算、张量等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系。</p>
 
             <p>邮箱：junfeng@hust.edu.cn；电话/微信：18827365073</p>
            
