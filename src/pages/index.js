@@ -21,13 +21,13 @@ const IndexPage = () => (
             <h1>冯君 华中科技大学</h1>
                   <h3>博士 副教授 博士生导师 硕士生导师</h3>
             <p>Jun Feng is an Associate Professor in the School of Cyber Science and Engineering at Huazhong University of Science and Technology. 
-               I received the PhD in the School of Computer Science and Technology at Huazhong University of Science and Technology. 
-               I have published more than 40 papers in top journals and conferences (e.g., IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Computers, IEEE Transactions on Information Forensics and Security, AAAI, 
+               He received the PhD in the School of Computer Science and Technology at Huazhong University of Science and Technology. 
+               He has published more than 40 papers in top journals and conferences (e.g., IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Computers, IEEE Transactions on Information Forensics and Security, AAAI, 
                IEEE Transactions on Industrial Informatics, IEEE Transactions on Big Data, IEEE Transactions on Sustainable Computing, IEEE Wireless Communications, 
-               IEEE Internet of Things Journal, Information Sciences, ACM Transactions on Internet Technology). I am particularly interested in privacy-preserving 
+               IEEE Internet of Things Journal, Information Sciences, ACM Transactions on Internet Technology). He is particularly interested in privacy-preserving 
                machine learning, differential privacy, artificial intelligence security and privacy, deep learning, and big data.</p>
 
-            <p>We are hiring! I'm looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
+            <p>We are hiring! We are looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
               I'm also looking for all kinds of collaborations, please drop me an email if you are interested.</p>
 
             <p>冯君老师现招募对大模型安全与隐私保护、隐私保护机器学习、人工智能、深度学习、同态加密、安全多方计算、张量等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系。</p>
