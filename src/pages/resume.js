@@ -17,6 +17,7 @@ const ResumePage = () => (
             其中第一作者IEEE/ACM Transactions论文10余篇</li>
         <li>入选国家级博士后人才计划</li>
         <li>IEEE TCSC杰出博士论文奖获得者</li>
+        <li>获得博士研究生国家奖学金、硕士研究生国家奖学金</li>
       </ul>
       
 
