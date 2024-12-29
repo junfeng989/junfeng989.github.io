@@ -32,7 +32,7 @@ const IndexPage = () => (
 
             <p>冯君老师现招募对大模型安全与隐私保护、隐私保护机器学习、人工智能、深度学习、同态加密、安全多方计算、张量等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系，做可以落地实用的科研。</p>
 
-            <p>邮箱：junfeng@hust.edu.cn；电话/微信：18827365073</p>
+            <p>邮箱：junfeng@hust.edu.cn, junfeng989@gmail.com；电话/微信：18827365073</p>
            
             <p>官方主页：<a href="http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm">http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm</a></p>
 
@@ -50,8 +50,8 @@ const IndexPage = () => (
         </section>
         <section style={sectionStyles}>
           <h2>联系方式</h2>
-          <p>通讯/办公地址：国家网络安全与人才创新基地明德楼A343</p>
-          <p>Email: <a href="">junfeng@hust.edu.cn</a></p>
+          <p>办公地址：国家网络安全与人才创新基地明德楼A343</p>
+          <p>Email: <a href="">junfeng@hust.edu.cn</a>, <a href="">junfeng989@gmail.com</a></p>
           <p>Tel/Wechat：18827365073</p>
         </section>
       </div>
