@@ -15,7 +15,7 @@ const IndexPage = () => (
               alt="导师照片"
               layout="constrained"
               width={120}
-              height={170}
+              height={180}
               style={imageStyles}
             />
             <h1>冯君 华中科技大学</h1>
@@ -141,6 +141,6 @@ const imageStyles = {
 //  border: "1px solid #007acc",   // 椭圆形边框，颜色为蓝色
   objectFit: "cover",            // 确保图片内容适配
   width: "140px",                // 固定宽度
-  height: "170px",               // 固定高度，制造椭圆效果
+  height: "180px",               // 固定高度，制造椭圆效果
 }
 export default IndexPage
