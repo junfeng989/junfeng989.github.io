@@ -4,7 +4,6 @@ import { Link } from "gatsby"
 const Header = () => (
   <header style={headerStyles}>
     <h1 style={{ textAlign: "left" }}>{/*安全AI*/}</h1>
-  <meta name="google-site-verification" content="0duOuR8u3-1yTOLj1EV2w6cWdrRuN64oW_M9C1lHiZA" />
     <nav>
       <Link to="/" style={navLinkStyles}>主页</Link> |  
       <Link to="/resume" style={navLinkStyles}>个人简介</Link> | 
