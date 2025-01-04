@@ -11,15 +11,15 @@ const WorkPubPage = () => (
       <ul style={pubListStyles}>
         <li style={pubItemStyles}>
           <h2>Paper</h2>
-          <p><strong>《计算机视觉与图像理解》</strong>XXXXXXXX</p>
+          <p><strong>《大模型》</strong>XXXXXXXX</p>
         </li>
         <li style={pubItemStyles}>
           <h2>Paper</h2>
-          <p><strong>《计算机视觉与图像理解》</strong>XXXXXXXX</p>
+          <p><strong>《人工智能安全》</strong>XXXXXXXX</p>
         </li>
         <li style={pubItemStyles}>
           <h2>Paper</h2>
-          <p><strong>《计算机视觉与图像理解》</strong>XXXXXXXX</p>
+          <p><strong>《隐私计算》</strong>XXXXXXXX</p>
         </li>
       </ul>
     </section>
