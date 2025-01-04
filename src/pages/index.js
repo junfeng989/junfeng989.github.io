@@ -3,6 +3,8 @@ import { StaticImage } from "gatsby-plugin-image"
 import Header from "../components/header"
 import Footer from "../components/footer"
 
+<meta name="google-site-verification" content="0duOuR8u3-1yTOLj1EV2w6cWdrRuN64oW_M9C1lHiZA" />
+  
 const IndexPage = () => (
   <main style={mainStyles}>
     <Header />
