@@ -1,17 +1,14 @@
 import React from "react"
+
+import ReactDOM from "react-dom" // 导入 ReactDOM
+
 import { StaticImage } from "gatsby-plugin-image"
 import Header from "../components/header"
 
 import Footer from "../components/footer"
 
 
-// React 渲染 App 组件，并将它挂载到 HTML 中的 #root 元素上
-ReactDOM.render(
-  <React.StrictMode>
-    <IndexPage />
-  </React.StrictMode>,
-  document.getElementById('root') // 挂载点
-);
+
 
   
 const IndexPage = () => (
@@ -154,4 +151,13 @@ const imageStyles = {
   width: "140px",                // 固定宽度
   height: "180px",               // 固定高度，制造椭圆效果
 }
+
+// React 渲染 App 组件，并将它挂载到 HTML 中的 #root 元素上
+ReactDOM.render(
+  <React.StrictMode>
+    <IndexPage />
+  </React.StrictMode>,
+  document.getElementById('root') // 挂载点
+);
+
 export default IndexPage
