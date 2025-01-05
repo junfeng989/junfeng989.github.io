@@ -37,7 +37,17 @@ function Seo({ description, title, children }) {
 
 
 
+{/* Google Analytics 跟踪代码 */}
+        <script async src={`https://www.googletagmanager.com/gtag/js?id=G-T90XLGDEGS`}></script>
+        <script>
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
 
+            gtag('config', 'G-T90XLGDEGS');
+          `}
+        </script>
 
        
    
