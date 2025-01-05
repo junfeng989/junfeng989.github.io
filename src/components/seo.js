@@ -8,7 +8,7 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
-import { Helmet } from 'react-helmet';
+import { Helmet } from "react-helmet"
 
 function Seo({ description, title, children }) {
   const { site } = useStaticQuery(
