@@ -8,6 +8,8 @@
 import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 
+import { Helmet } from 'react-helmet';
+
 function Seo({ description, title, children }) {
   const { site } = useStaticQuery(
     graphql`
@@ -29,6 +31,11 @@ function Seo({ description, title, children }) {
   return (
     <>
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
+
+ <Helmet>
+        <meta name="google-site-verification" content="0duOuR8u3-1yTOLj1EV2w6cWdrRuN64oW_M9C1lHiZA" />
+      </Helmet>
+  
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
