@@ -3,6 +3,7 @@ import { Link } from "gatsby"
 
 const Header = () => (
   <header style={headerStyles}>
+  <title>Jun Feng's Homepage</title>
     <h1 style={{ textAlign: "left" }}>{/*安全AI*/}</h1>
     <nav>
       <Link to="/" style={navLinkStyles}>主页</Link> |  
