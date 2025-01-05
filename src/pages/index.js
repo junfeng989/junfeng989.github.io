@@ -1,6 +1,6 @@
 import React from "react"
 
-import ReactDOM from "react-dom" // 导入 ReactDOM
+//import ReactDOM from "react-dom" // 导入 ReactDOM
 
 import { StaticImage } from "gatsby-plugin-image"
 import Header from "../components/header"
@@ -154,11 +154,11 @@ const imageStyles = {
 
 
 // React 渲染 App 组件，并将它挂载到 HTML 中的 #root 元素上
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <IndexPage />
-  </React.StrictMode>
-);
+//ReactDOM.createRoot(document.getElementById('root')).render(
+//  <React.StrictMode>
+ //   <IndexPage />
+ // </React.StrictMode>
+//);
 
 
 export default IndexPage
