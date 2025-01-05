@@ -31,7 +31,7 @@ function Seo({ description, title, children }) {
   return (
     <>
 
-   % <Helmet>
+  /** <Helmet>*/
     
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
 
@@ -46,7 +46,7 @@ function Seo({ description, title, children }) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
 
-%  </Helmet>
+/** </Helmet>*/
 
       {children}
     </>
