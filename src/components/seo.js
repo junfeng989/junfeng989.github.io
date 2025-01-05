@@ -30,13 +30,16 @@ function Seo({ description, title, children }) {
 
   return (
     <>
+
+    <Helmet>
+    
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
   
-<div className="App">
- <Helmet>
+
+ 
         <meta name="google-site-verification" content="0duOuR8u3-1yTOLj1EV2w6cWdrRuN64oW_M9C1lHiZA" />
-      </Helmet>
-  </div>
+      
+
   
       <meta name="description" content={metaDescription} />
       <meta property="og:title" content={title} />
@@ -46,6 +49,9 @@ function Seo({ description, title, children }) {
       <meta name="twitter:creator" content={site.siteMetadata?.author || ``} />
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
+
+  </Helmet>
+
       {children}
     </>
   )
