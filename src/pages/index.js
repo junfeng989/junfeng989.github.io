@@ -4,6 +4,15 @@ import Header from "../components/header"
 
 import Footer from "../components/footer"
 
+
+// React 渲染 App 组件，并将它挂载到 HTML 中的 #root 元素上
+ReactDOM.render(
+  <React.StrictMode>
+    <IndexPage />
+  </React.StrictMode>,
+  document.getElementById('root') // 挂载点
+);
+
   
 const IndexPage = () => (
   <main style={mainStyles}>
