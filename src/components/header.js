@@ -9,6 +9,22 @@ const Header = () => (
 <script src="https://www.google-analytics.com/analytics.js" async="true"></script>
 <script src="https://www.google-analytics.com/analytics.js" async="true"></script>
 
+
+<script type="text/javascript">
+	function show(x) {
+		var pubs = document.getElementsByClassName('pub');
+		for (var i=0; i<pubs.length; i++) {
+			if ((" "+pubs[i].className+" ").indexOf(" "+x+" ") >= 0) {
+				pubs[i].style.display = "inline";
+				pubs[i].style.opacity = '1';
+			} else {
+				pubs[i].style.display = "none";
+				pubs[i].style.opacity = '0';
+			}
+		}
+	}
+</script>
+  
   
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
