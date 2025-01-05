@@ -152,12 +152,13 @@ const imageStyles = {
   height: "180px",               // 固定高度，制造椭圆效果
 }
 
+
 // React 渲染 App 组件，并将它挂载到 HTML 中的 #root 元素上
-ReactDOM.render(
+ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <IndexPage />
-  </React.StrictMode>,
-  document.getElementById('root') // 挂载点
+  </React.StrictMode>
 );
+
 
 export default IndexPage
