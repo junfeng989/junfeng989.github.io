@@ -7,12 +7,14 @@ import Header from "../components/header"
 
 import Footer from "../components/footer"
 
-
+import Seo from "../components/seo"
 
 
   
 const IndexPage = () => (
   <main style={mainStyles}>
+
+  <Seo />
     <Header />
     <div style={contentWrapperStyles}>
       <div style={leftColumnStyles}>    
