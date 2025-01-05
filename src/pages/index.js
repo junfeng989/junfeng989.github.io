@@ -12,9 +12,12 @@ import Seo from "../components/seo"
 
   
 const IndexPage = () => (
-  <main style={mainStyles}>
 
   <Seo />
+  
+  <main style={mainStyles}>
+
+  
     <Header />
     <div style={contentWrapperStyles}>
       <div style={leftColumnStyles}>    
