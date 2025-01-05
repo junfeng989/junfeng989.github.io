@@ -4,39 +4,6 @@ import { Link } from "gatsby"
 const Header = () => (
   <header style={headerStyles}>
 
-<script src="https://www.google-analytics.com/analytics.js" async="true"></script>
-<script src="https://www.google-analytics.com/analytics.js" async="true"></script>
-<script src="https://www.google-analytics.com/analytics.js" async="true"></script>
-<script src="https://www.google-analytics.com/analytics.js" async="true"></script>
-
-
-%<script type="text/javascript">
-	function show(x) {
-		var pubs = document.getElementsByClassName('pub');
-		for (var i=0; i<pubs.length; i++) {
-			if ((" "+pubs[i].className+" ").indexOf(" "+x+" ") >= 0) {
-				pubs[i].style.display = "inline";
-				pubs[i].style.opacity = '1';
-			} else {
-				pubs[i].style.display = "none";
-				pubs[i].style.opacity = '0';
-			}
-		}
-	}
-%</script>
-  
-  
-%<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-76469747-1', 'auto');
-  ga('send', 'pageview');
-%</script>
-
-
   
   <title>Jun Feng's Homepage</title>
     <h1 style={{ textAlign: "left" }}>{/*安全AI*/}</h1>
