@@ -1,11 +1,12 @@
 import React from "react"
 import { Link } from "gatsby"
 
+import { Helmet } from "react-helmet"; // 引入Helmet组件
+
 const Header = () => (
   <header style={headerStyles}>
 
-  
-  <title>Jun Feng's Homepage</title>
+
     <h1 style={{ textAlign: "left" }}>{/*安全AI*/}</h1>
     <nav>
       <Link to="/" style={navLinkStyles}>主页</Link> |  
@@ -13,6 +14,51 @@ const Header = () => (
       <Link to="/publication" style={navLinkStyles}>近期工作</Link> |
       <Link to="/Call_for_Paper" style={navLinkStyles}>Call for Paper</Link> |
     </nav>
+
+
+
+
+      {/* 使用Helmet组件管理头部信息 */}
+    <Helmet>
+      {/* 设置文档的title */}
+      <title>Jun Feng's Homepage</title>
+      
+      {/* 添加Google Analytics脚本（只添加一次） */}
+      <script src="https://www.google-analytics.com/analytics.js" async />
+      <script src="https://www.google-analytics.com/analytics.js" async />
+      <script src="https://www.google-analytics.com/analytics.js" async />
+      <script src="https://www.google-analytics.com/analytics.js" async />
+      
+      {/* 添加自定义的JavaScript函数 */}
+      <script type="text/javascript">
+        {`
+          function show(x) {
+            var pubs = document.getElementsByClassName('pub');
+            for (var i=0; i<pubs.length; i++) {
+              if ((" "+pubs[i].className+" ").indexOf(" "+x+" ") >= 0) {
+                pubs[i].style.display = "inline";
+                pubs[i].style.opacity = '1';
+              } else {
+                pubs[i].style.display = "none";
+                pubs[i].style.opacity = '0';
+              }
+            }
+          }
+
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-76469747-1', 'auto');
+          ga('send', 'pageview');
+        `}
+      </script>
+    </Helmet>
+
+
+
+  
   </header>
 )
 
