@@ -15,14 +15,6 @@ module.exports = {
     siteUrl: `https://junfeng989.github.io/`,
   },
   plugins: [
-    `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: "G-T90XLGDEGS",
-        // 其他配置选项...
-      },
-    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
