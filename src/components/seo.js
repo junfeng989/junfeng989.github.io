@@ -21,12 +21,14 @@ function Seo({ description, title, children }) {
             title
             description
             author
+            keywords
           }
         }
       }
     `
   )
-
+ 
+  const keywords = site.siteMetadata.keywords
   const metaDescription = description || site.siteMetadata.description
   const defaultTitle = site.siteMetadata?.title
 
@@ -40,6 +42,7 @@ function Seo({ description, title, children }) {
    <meta name="google-site-verification" content="0duOuR8u3-1yTOLj1EV2w6cWdrRuN64oW_M9C1lHiZA"/>
  
       <meta name="description" content={metaDescription} />
+      <meta name="keywords" content={keywords} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={metaDescription} />
       <meta property="og:type" content="website" />
