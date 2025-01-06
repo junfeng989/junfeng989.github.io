@@ -9,7 +9,7 @@ import * as React from "react"
 
  import { useStaticQuery, graphql } from "gatsby"
 
-import { Helmet } from "react-helmet"
+
 
 
 function Seo({ description, title, children }) {
@@ -35,7 +35,6 @@ function Seo({ description, title, children }) {
   return (
     <> 
 
-    <Helmet>
 
       <title>{defaultTitle ? `${title} | ${defaultTitle}` : title}</title>
 
@@ -51,7 +50,6 @@ function Seo({ description, title, children }) {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={metaDescription} />
 
-   </Helmet>
 
       {children}
     </>
