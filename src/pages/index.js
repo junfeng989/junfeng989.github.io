@@ -6,7 +6,8 @@ import { StaticImage } from "gatsby-plugin-image"
 import Header from "../components/header"
 
 import Footer from "../components/footer"
-import Seo from "../components/seo"
+
+
 
 
   
@@ -18,11 +19,6 @@ const IndexPage = () => (
 
   
     <Header />
-        <Seo
-        title={meta_title || title}
-        description={meta_description}
-        keywords={meta_keywords}
-      />
     <div style={contentWrapperStyles}>
       <div style={leftColumnStyles}>    
         <section style={sectionStyles}>
