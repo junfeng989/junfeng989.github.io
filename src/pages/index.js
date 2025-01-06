@@ -15,13 +15,14 @@ const IndexPage = () => (
   
   
   <main style={mainStyles}>
-      <Seo
+
+  
+    <Header />
+        <Seo
         title={meta_title || title}
         description={meta_description}
         keywords={meta_keywords}
       />
-  
-    <Header />
     <div style={contentWrapperStyles}>
       <div style={leftColumnStyles}>    
         <section style={sectionStyles}>
