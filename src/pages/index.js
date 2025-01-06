@@ -59,7 +59,7 @@ const IndexPage = () => (
         <section style={sectionStyles}>
               <h2>研究方向</h2>
                 <ul>
-                <li>大模型安全与隐私保护1</li>
+                <li>大模型安全与隐私保护</li>
                 <li>人工智能安全</li>
                 <li>深度学习</li>
                 <li>张量人工智能</li>
