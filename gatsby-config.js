@@ -9,10 +9,11 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
+    title: `冯君 华中科技大学 个人主页`,
+    description: `冯君老师现招募对大模型安全与隐私保护、隐私保护机器学习、人工智能、深度学习、同态加密、安全多方计算等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系，做可以落地实用的科研。`,
     author: `@gatsbyjs`,
     siteUrl: `https://junfeng989.github.io/`,
+    keywords: `冯君，fengjun，华中科技大学，hust，个人主页，homepage`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -24,6 +25,7 @@ module.exports = {
       },
     },
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-react-helmet`，
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
