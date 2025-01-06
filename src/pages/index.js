@@ -18,11 +18,7 @@ const IndexPage = () => (
 
   
     <Header />
-  <Seo
-title={meta_title || title}
-description={meta_description}
-keywords={meta_keywords}
-/>
+ 
     <div style={contentWrapperStyles}>
       <div style={leftColumnStyles}>    
         <section style={sectionStyles}>
