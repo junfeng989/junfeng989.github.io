@@ -59,7 +59,7 @@ const ResumePage = () => (
         <li>Information Sciences (IF=8.233, 中科院一区)</li>
         <li>Future Generation Computer Systems (IF=7.307)</li>
         <li>IEEE Transactions on Big Data</li>
-        <li>Computers /& Security</li>
+        <li>Computers & Security</li>
         <li>Information Fusion (IF=18.6, 中科院一区)</li>
         <li>Knowledge-Based Systems (IF=8.8, 中科院一区)</li>
         <li>Expert Systems With Applications</li>
