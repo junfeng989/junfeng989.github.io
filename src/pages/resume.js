@@ -39,6 +39,32 @@ const ResumePage = () => (
         <li>担任国家科技专家库专家；担任国家自然科学基金评审专家；担任加拿大国家自然科学基金评审专家</li>
         <li>担任湖北省科技厅专家库专家、浙江省科技专家库专家、陕西省科技项目评审专家、北京市自然科学基金评审专家等科技项目评审专家</li>
       </ul>
+
+       <h2>国际权威期刊审稿专家</h2>
+       <ul>
+        <li>IEEE Transactions on Dependable and Secure Computing (CCF A, IF=7.3)</li>
+        <li>IEEE Transactions on Information Forensics and Security (CCF A, IF=7.231, 中科院一区)</li>
+        <li>IEEE Transactions on Computers (CCF A)</li>
+        <li>ACM Transactions on Software Engineering and Methodology (CCF A)</li>
+        <li>ACM Transactions on Internet Technology (CCF B, IF=3.989)</li>
+        <li>IEEE Transactions on Industrial Informatics (IF=11.648, 中科院一区)</li>
+        <li>IEEE Transactions on Engineering Management (IF=8.702)</li>
+        <li>IEEE Transactions on Neural Networks and Learning Systems (IF=14.255, 中科院一区)</li>
+        <li>IEEE Transactions on Intelligent Transportation Systems (IF=9.551, 中科院一区)</li>
+        <li>IEEE Transactions on Sustainable Computing (IF=3.9)</li>
+        <li>IEEE Internet of Things Journal (IF=10.238, 中科院一区)</li>
+        <li>IEEE/CAA Journal of Automatica Sinica (IF=7.847, 中科院一区)</li>
+        <li>IEEE Wireless Communications (IF=12.777, 中科院一区)</li>
+        <li>IEEE Consumer Electronics Magazine (IF=4.135)</li>
+        <li>Information Sciences (IF=8.233, 中科院一区)</li>
+        <li>Future Generation Computer Systems (IF=7.307)</li>
+        <li>IEEE Transactions on Big Data</li>
+        <li>Computers /& Security</li>
+        <li>Information Fusion (IF=18.6, 中科院一区)</li>
+        <li>Knowledge-Based Systems (IF=8.8, 中科院一区)</li>
+        <li>Expert Systems With Applications</li>
+      </ul>       
+              
     </section>
     <Footer />
   </main>
