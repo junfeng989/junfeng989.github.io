@@ -40,7 +40,7 @@ const ResumePage = () => (
         <li>担任湖北省科技厅专家库专家、浙江省科技专家库专家、陕西省科技项目评审专家、北京市自然科学基金评审专家等科技项目评审专家</li>
       </ul>
 
-       <h2>国际权威期刊审稿专家</h2>
+       <h2>国际期刊审稿专家</h2>
        <ul>
         <li>IEEE Transactions on Dependable and Secure Computing (CCF A, IF=7.3)</li>
         <li>IEEE Transactions on Information Forensics and Security (CCF A, IF=7.231, 中科院一区)</li>
@@ -49,6 +49,7 @@ const ResumePage = () => (
         <li>ACM Transactions on Internet Technology (CCF B, IF=3.989)</li>
         <li>IEEE Transactions on Industrial Informatics (IF=11.648, 中科院一区)</li>
         <li>IEEE Transactions on Engineering Management (IF=8.702)</li>
+        <li>IEEE Transactions on Network and Service Management</li>
         <li>IEEE Transactions on Neural Networks and Learning Systems (IF=14.255, 中科院一区)</li>
         <li>IEEE Transactions on Intelligent Transportation Systems (IF=9.551, 中科院一区)</li>
         <li>IEEE Transactions on Sustainable Computing (IF=3.9)</li>
