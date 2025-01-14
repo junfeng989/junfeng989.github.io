@@ -45,7 +45,7 @@ const IndexPage = () => (
 
             <p>冯君老师现招募对大模型安全与隐私保护、隐私保护机器学习、人工智能、深度学习、同态加密、安全多方计算等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系，做可以落地实用的科研。</p>
 
-            <p>邮箱：junfeng@hust.edu.cn, junfeng989@gmail.com；电话/微信：18827365073</p>
+            <p>Emails: junfeng@hust.edu.cn, junfeng989@gmail.com；Tel/Wechat：18827365073</p>
            
             <p>官方主页：<a href="http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm">http://faculty.hust.edu.cn/fengjun6/zh_CN/index.htm</a></p>
 
