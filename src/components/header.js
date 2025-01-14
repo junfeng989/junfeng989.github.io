@@ -7,7 +7,7 @@ const Header = () => (
   <header style={headerStyles}>
 
  {/* 设置文档的title */}
-      <title>Jun Feng's Homepage</title>
+      <title>Jun Feng's Homepage--Trustworthy Large Model</title>
 
     <h1 style={{ textAlign: "left" }}>{/*安全AI*/}</h1>
     <nav>
