@@ -11,7 +11,7 @@ const WorkPubPage = () => (
       <ul style={pubListStyles}>
         <li style={pubItemStyles}>
           <h2>Paper</h2>
-          <p><strong>《大模型》</strong>XXXXXXXX</p>
+          <p><strong>Panther: Practical Secure Two-Party Neural Network Inference</strong>IEEE Transactions on Information Forensics and Security</p>
         </li>
         <li style={pubItemStyles}>
           <h2>Paper</h2>
