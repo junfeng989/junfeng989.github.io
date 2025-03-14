@@ -24,14 +24,14 @@ const ResumePage = () => (
 
       <h2>专家履历</h2>
       <ul>
-        <li>主持CCF-华为胡杨林基金可信计算专项：安全高效的大模型资产保护技术研究</li>
-        <li>主持国家重点研发计划项目课题：大模型的安全微调关键技术研究</li>
+        <li>主持CCF-华为胡杨林基金可信计算专项“安全高效的大模型资产保护技术研究”</li>
+        <li>主持国家重点研发计划项目课题“大模型的安全微调关键技术研究”</li>
         <li>主持国家自然科学基金面上项目“实用不经意差分隐私张量机器学习研究”，2024-01-01 至 2027-12-31</li>
         <li>主持国家自然科学基金青年项目“面向人机物系统的实用隐私保护张量深度学习研究”，2021-01-01 至 2023-12-31</li>
         <li>参与国家重点研发计划网络空间安全重点专项、国家自然科学基金重点项目</li>
         <li>担任国际会议IEEE ATC 2024、ICBC 2023、IEEE PriComp 2022、IEEE DependSys 2021、IEEE DependSys 2020、SpaCCS 2019的程序委员会主席</li>
-        <li>担任CCF A类会议IJCAI 2025, ICML 2025, WWW 2025 (ACM TheWebConf 2025), ICLR 2025, AAAI 2025, NeurIPS 2024, ACM MM 2024, AAAI 2024, AAAI 2023等顶级会议程序委员会委员或审稿人</li>
-        <li>担任20多个国际学术期刊例如IEEE TDSC、IEEE TIFS、IEEE TC、ACM TOSEM的审稿专家</li>
+        <li>担任CCF A类会议NeurIPS 2025、ACM MM 2025、IJCAI 2025、ICML 2025、WWW 2025 (ACM TheWebConf 2025)、ICLR 2025、AAAI 2025、NeurIPS 2024、ACM MM 2024、AAAI 2024、AAAI 2023等顶级会议程序委员会委员或审稿人</li>
+        <li>担任20多个国际学术期刊例如IEEE TDSC、IEEE TIFS、IEEE TC、IEEE TMC、ACM TOSEM的审稿专家</li>
         <li>担任通信学报、CAAI Artificial Intelligence Research、网络与信息安全学报、网络空间安全科学学报等期刊青年编委</li>
         <li>担任电子学报、电子与信息学报、计算机研究与发展、China Communications等国内期刊的审稿专家</li>
         <li>担任中国中文信息学会大数据安全与隐私计算专委会委员、中国计算机学会嵌入式系统专委会执行委员</li>
@@ -45,6 +45,7 @@ const ResumePage = () => (
         <li>IEEE Transactions on Dependable and Secure Computing (CCF A, IF=7.3)</li>
         <li>IEEE Transactions on Information Forensics and Security (CCF A, IF=7.231, 中科院一区)</li>
         <li>IEEE Transactions on Computers (CCF A)</li>
+        <li>Transactions on Mobile Computing (CCF A)</li>
         <li>ACM Transactions on Software Engineering and Methodology (CCF A)</li>
         <li>ACM Transactions on Internet Technology (CCF B, IF=3.989)</li>
         <li>IEEE Transactions on Industrial Informatics (IF=11.648, 中科院一区)</li>
