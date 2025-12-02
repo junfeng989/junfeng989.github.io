@@ -41,7 +41,7 @@ const IndexPage = () => (
                 deep learning, and big data. 
                 He currently serves as an Associate Editor on the editorial boards of IEEE Transactions on Information Forensics and Security (TIFS) and Information Fusion (INF).</p>
 
-            <p><span style="color: #CC0000; font-weight: bold;">[We Are Hiring!]</span> We are looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
+            <p><span style={{ color: '#CC0000', fontWeight: 'bold' }}>[We Are Hiring!]</span> We are looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
               I'm also looking for all kinds of collaborations, please drop me an email if you are interested.</p>
 
             <p>冯君老师现招募对大模型安全与隐私保护、隐私保护机器学习、人工智能、深度学习、同态加密、安全多方计算等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系，做可以落地实用的科研。</p>
