@@ -24,12 +24,13 @@ const ResumePage = () => (
 
       <h2>专家履历</h2>
       <ul>
-        <li>担任CCF A类期刊IEEE Transactions on Information Forensics and Security (IEEE TIFS) 的Associate Editor</li>
-        <li>担任顶级会议ICLR 2026、AAAI 2026、ACSAC 2025、NeurIPS 2025、ACM MM 2025、IJCAI 2025、ICML 2025、WWW 2025 (ACM TheWebConf 2025)、ICLR 2025、AAAI 2025、NeurIPS 2024、ACM MM 2024、AAAI 2024、AAAI 2023等领域主席、程序委员会委员或审稿人</li>
+        <li style="color: red;">I start to serve as an Associate Editor on the editorial board of Information Fusion (IF=15.5)</li>
+        <li style="color: red;">I start to serve as an Associate Editor on the editorial board of IEEE Transactions on Information Forensics and Security (IEEE TIFS)  (CCF A) </li>
+        <li>担任顶级会议CVPR 2026、ICLR 2026、AAAI 2026、ACSAC 2025、NeurIPS 2025、ACM MM 2025、IJCAI 2025、ICML 2025、WWW 2025 (ACM TheWebConf 2025)、ICLR 2025、AAAI 2025、NeurIPS 2024、ACM MM 2024、AAAI 2024、AAAI 2023等领域主席、程序委员会委员或审稿人</li>
         <li>担任20多个国际学术期刊例如IEEE TDSC、IEEE TIFS、IEEE TC、IEEE TMC、ACM TOSEM的审稿专家</li>
         <li>担任国际会议IEEE ATC 2024、ICBC 2023、IEEE PriComp 2022、IEEE DependSys 2021、IEEE DependSys 2020、SpaCCS 2019的程序委员会主席</li>
         <li>担任通信学报、CAAI Artificial Intelligence Research、网络与信息安全学报、网络空间安全科学学报等期刊青年编委</li>
-        <li>担任电子学报、电子与信息学报、计算机研究与发展、China Communications等国内期刊的审稿专家</li>
+        <li>担任计算机学报、电子学报、电子与信息学报、计算机研究与发展、China Communications等国内期刊的审稿专家</li>
         <li>担任中国中文信息学会大数据安全与隐私计算专委会委员、中国计算机学会嵌入式系统专委会执行委员</li>
         <li>担任蚂蚁集团隐语学术委员会委员</li>
         <li>担任国家科技专家库专家；担任国家自然科学基金评审专家；担任加拿大国家自然科学基金评审专家</li>
@@ -68,9 +69,10 @@ const ResumePage = () => (
         <li>Future Generation Computer Systems (IF=7.307)</li>
         <li>IEEE Transactions on Big Data</li>
         <li>Computers & Security</li>
-        <li>Information Fusion (IF=18.6, 中科院一区)</li>
+        <li>Information Fusion (IF=15.5, 中科院一区)</li>
         <li>Knowledge-Based Systems (IF=8.8, 中科院一区)</li>
         <li>Expert Systems With Applications</li>
+        <li>IEEE Transactions on Privacy/li>
       </ul>       
               
     </section>
