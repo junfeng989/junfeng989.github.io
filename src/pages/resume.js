@@ -53,7 +53,7 @@ const ResumePage = () => (
         <li>IEEE Transactions on Information Forensics and Security (CCF A, IF=7.231, 中科院一区)</li>
         <li>IEEE Transactions on Computers (CCF A)</li>
         <li>IEEE Transactions on Mobile Computing (CCF A)</li>
-        <li>IEEE Transactions on Parallel and Distributed Systems</li>
+        <li>IEEE Transactions on Parallel and Distributed Systems (CCF A)</li>
         <li>ACM Transactions on Software Engineering and Methodology (CCF A)</li>
         <li>ACM Transactions on Internet Technology (CCF B, IF=3.989)</li>
         <li>IEEE Transactions on Industrial Informatics (IF=11.648, 中科院一区)</li>
