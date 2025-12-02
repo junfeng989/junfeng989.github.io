@@ -24,8 +24,8 @@ const ResumePage = () => (
 
       <h2>专家履历</h2>
       <ul>
-        <li style="color: red;">I start to serve as an Associate Editor on the editorial board of Information Fusion (IF=15.5)</li>
-        <li style="color: red;">I start to serve as an Associate Editor on the editorial board of IEEE Transactions on Information Forensics and Security (IEEE TIFS)  (CCF A) </li>
+        <li><span style="color: red; font-weight: bold;">[New]</span>I start to serve as an Associate Editor on the editorial board of Information Fusion (IF=15.5)</li>
+        <li><span style="color: red; font-weight: bold;">[New]</span>I start to serve as an Associate Editor on the editorial board of IEEE Transactions on Information Forensics and Security (IEEE TIFS)  (CCF A) </li>
         <li>担任顶级会议CVPR 2026、ICLR 2026、AAAI 2026、ACSAC 2025、NeurIPS 2025、ACM MM 2025、IJCAI 2025、ICML 2025、WWW 2025 (ACM TheWebConf 2025)、ICLR 2025、AAAI 2025、NeurIPS 2024、ACM MM 2024、AAAI 2024、AAAI 2023等领域主席、程序委员会委员或审稿人</li>
         <li>担任20多个国际学术期刊例如IEEE TDSC、IEEE TIFS、IEEE TC、IEEE TMC、ACM TOSEM的审稿专家</li>
         <li>担任国际会议IEEE ATC 2024、ICBC 2023、IEEE PriComp 2022、IEEE DependSys 2021、IEEE DependSys 2020、SpaCCS 2019的程序委员会主席</li>
