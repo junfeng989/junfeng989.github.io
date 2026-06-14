@@ -67,6 +67,7 @@ const ResumePage = () => (
         <li>IEEE/CAA Journal of Automatica Sinica (IF=7.847, 中科院一区)</li>
         <li>IEEE Wireless Communications (IF=12.777, 中科院一区)</li>
         <li>IEEE Consumer Electronics Magazine (IF=4.135)</li>
+        <li>ACM Computing Surveys</li>
         <li>Information Sciences (IF=8.233, 中科院一区)</li>
         <li>Future Generation Computer Systems (IF=7.307)</li>
         <li>IEEE Transactions on Big Data</li>
