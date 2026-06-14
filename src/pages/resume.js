@@ -48,12 +48,12 @@ const ResumePage = () => (
 
        <h2>国际期刊审稿专家</h2>
        <ul>
-        <li>IEEE Transactions on Dependable and Secure Computing (CCF A, IF=7.3)</li>
-        <li>IEEE Transactions on Information Forensics and Security (CCF A, IF=7.231, 中科院一区)</li>
-        <li>IEEE Transactions on Computers (CCF A)</li>
-        <li>IEEE Transactions on Mobile Computing (CCF A)</li>
-        <li>IEEE Transactions on Parallel and Distributed Systems (CCF A)</li>
-        <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (CCF A)</li>
+        <li>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) (CCF A, IF=7.3)</li>
+        <li>IEEE Transactions on Information Forensics and Security (IEEE TIFS) (CCF A, IF=7.231, 中科院一区)</li>
+        <li>IEEE Transactions on Computers (IEEE TC) (CCF A)</li>
+        <li>IEEE Transactions on Mobile Computing (IEEE TMC) (CCF A)</li>
+        <li>IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) (CCF A)</li>
+        <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) (CCF A)</li>
         <li>ACM Transactions on Software Engineering and Methodology (CCF A)</li>
         <li>Information Fusion (IF=15.5, 中科院一区)</li>
         <li>ACM Transactions on Internet Technology (CCF B, IF=3.989)</li>
