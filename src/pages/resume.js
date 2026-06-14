@@ -21,7 +21,6 @@ const ResumePage = () => (
       </ul>
       
 
-
       <h2>专家履历</h2>
       <ul>
         <li><span style={{ color: 'red', fontWeight: 'bold' }}>[New]</span> I start to serve as an Associate Editor on the editorial board of Information Fusion (INF) (IF=15.5)</li>
