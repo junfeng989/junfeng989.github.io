@@ -13,6 +13,7 @@ exports.onRenderBody = ({ setHtmlAttributes, setHeadComponents }) => {
   // 1. 保留您原有的设置语言属性的逻辑
   setHtmlAttributes({ lang: `en` })
 
+  
   // 2. 增加注入 meta 标签的逻辑
   setHeadComponents([
     <meta key="title" name="title" content="冯君 华中科技大学 个人主页" />,
