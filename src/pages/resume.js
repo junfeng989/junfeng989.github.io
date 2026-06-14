@@ -53,6 +53,7 @@ const ResumePage = () => (
         <li>IEEE Transactions on Computers (CCF A)</li>
         <li>IEEE Transactions on Mobile Computing (CCF A)</li>
         <li>IEEE Transactions on Parallel and Distributed Systems (CCF A)</li>
+        <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) (CCF A)</li>
         <li>ACM Transactions on Software Engineering and Methodology (CCF A)</li>
         <li>Information Fusion (IF=15.5, 中科院一区)</li>
         <li>ACM Transactions on Internet Technology (CCF B, IF=3.989)</li>
