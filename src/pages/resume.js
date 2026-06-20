@@ -47,7 +47,7 @@ const ResumePage = () => (
               <li>参与国家重点研发计划网络空间安全重点专项、国家自然科学基金重点项目</li>
       </ul>
 
-       <h2>国际期刊审稿专家</h2>
+       <h2>Reviewer</h2>
        <ul>
         <li>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) (CCF A, IF=7.3)</li>
         <li>IEEE Transactions on Information Forensics and Security (IEEE TIFS) (CCF A, IF=7.231, 中科院一区)</li>
