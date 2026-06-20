@@ -7,7 +7,7 @@ const ResumePage = () => (
     <Header />
     <section style={sectionStyles}>
       <h1>个人简介</h1>
-      <p>冯君，华中科技大学网络空间安全学院副教授，博生生导师、硕士生导师。在华中科技大学计算机科学与技术学院获得博士学位。从事大模型安全与隐私保护、人工智能、深度学习、全同态加密、安全多方计算等研究工作</p>
+      <p>冯君，华中科技大学网络空间安全学院副教授，博士生导师、硕士生导师。在华中科技大学计算机科学与技术学院获得博士学位。从事大模型安全与隐私保护、人工智能、深度学习、全同态加密、安全多方计算等研究工作</p>
 
   
       
@@ -47,7 +47,7 @@ const ResumePage = () => (
               <li>参与国家重点研发计划网络空间安全重点专项、国家自然科学基金重点项目</li>
       </ul>
 
-       <h2>Reviewer</h2>
+       <h2>审稿人</h2>
        <ul>
         <li>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) (CCF A, IF=7.3)</li>
         <li>IEEE Transactions on Information Forensics and Security (IEEE TIFS) (CCF A, IF=7.231, 中科院一区)</li>
@@ -72,7 +72,7 @@ const ResumePage = () => (
         <li>Information Sciences (IF=8.233, 中科院一区)</li>
         <li>Future Generation Computer Systems (IF=7.307)</li>
         <li>IEEE Transactions on Big Data</li>
-        <li>Computers & Security</li>
+        <li>Computers &amp; Security</li>
         <li>Knowledge-Based Systems (IF=8.8, 中科院一区)</li>
         <li>Expert Systems With Applications</li>
         <li>IEEE Transactions on Privacy</li>
