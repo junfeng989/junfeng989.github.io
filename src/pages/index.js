@@ -44,7 +44,7 @@ const IndexPage = () => (
             <p><span style={{ color: '#CC0000', fontWeight: 'bold' }}>[We Are Hiring!]</span> We are looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
               I'm also looking for all kinds of collaborations, please drop me an email if you are interested.</p>
 
-            <p>冯君老师现招募对大模型安全、隐私保护机器学习、人工智能、深度学习、全同态加密、安全多方计算等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系，做可以落地实用的科研。</p>
+            <p>冯君老师现招募对大模型安全与隐私保护、人工智能、机器学习、全同态加密、安全多方计算等感兴趣的研究生以及本科科研训练学生，欢迎积极进取、热爱科研的学生与我联系，做可以落地实用的科研。</p>
             <p>冯君老师现正在与华为、蚂蚁进行科研合作。</p>
 
             <p>Emails: junfeng@hust.edu.cn, junfeng989@gmail.com；Tel/Wechat：18827365073</p>
