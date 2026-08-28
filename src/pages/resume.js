@@ -52,8 +52,8 @@ const ResumePage = () => (
 
        <h2>Reviewer</h2>
        <ul>
-        <li>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) (CCF A, IF=7.3)</li>
         <li>IEEE Transactions on Information Forensics and Security (IEEE TIFS) (CCF A, IF=7.231, 中科院一区)</li>
+        <li>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) (CCF A, IF=7.3)</li>
         <li>IEEE Transactions on Computers (IEEE TC) (CCF A)</li>
         <li>IEEE Transactions on Mobile Computing (IEEE TMC) (CCF A)</li>
         <li>IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) (CCF A)</li>
