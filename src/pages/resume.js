@@ -13,7 +13,7 @@ const ResumePage = () => (
       
       <h2>学术成果与荣誉</h2>
       <ul>
-        <li>发表重要学术论文50余篇，包括IEEE TDSC、IEEE TC、IEEE TIFS、NIPS、AAAI、IEEE TII、ACM TOIT、IEEE TBD、IEEE TSUSC、IEEE IOT、INS、IEEE WCM等，
+        <li>发表重要学术论文60余篇，包括IEEE TDSC、IEEE TC、IEEE TIFS、NIPS、IEEE S&amp;P, USENIX Security, AAAI、IEEE TII、ACM TOIT、IEEE TBD、IEEE TSUSC、IEEE IOT、INS、IEEE WCM等，
             其中第一作者IEEE/ACM Transactions论文10余篇</li>
         <li>入选国家级博士后人才计划</li>
         <li>IEEE TCSC杰出博士论文奖获得者</li>
@@ -55,11 +55,12 @@ const ResumePage = () => (
         <li>IEEE Transactions on Information Forensics and Security (IEEE TIFS) (CCF A, IF=7.231, 中科院一区)</li>
         <li>IEEE Transactions on Dependable and Secure Computing (IEEE TDSC) (CCF A, IF=7.3)</li>
         <li>IEEE Transactions on Computers (IEEE TC) (CCF A)</li>
+        <li>Information Fusion (IF=15.5, 中科院一区)</li>
+        <li>Computers &amp; Security</li>
         <li>IEEE Transactions on Mobile Computing (IEEE TMC) (CCF A)</li>
         <li>IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS) (CCF A)</li>
         <li>IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI) (CCF A)</li>
         <li>ACM Transactions on Software Engineering and Methodology (CCF A)</li>
-        <li>Information Fusion (IF=15.5, 中科院一区)</li>
         <li>ACM Transactions on Internet Technology (CCF B, IF=3.989)</li>
         <li>IEEE Transactions on Industrial Informatics (IF=11.648, 中科院一区)</li>
         <li>IEEE Transactions on Engineering Management (IF=8.702)</li>
@@ -75,7 +76,6 @@ const ResumePage = () => (
         <li>Information Sciences (IF=8.233, 中科院一区)</li>
         <li>Future Generation Computer Systems (IF=7.307)</li>
         <li>IEEE Transactions on Big Data</li>
-        <li>Computers &amp; Security</li>
         <li>Knowledge-Based Systems (IF=8.8, 中科院一区)</li>
         <li>Expert Systems With Applications</li>
         <li>IEEE Transactions on Privacy</li>
