@@ -34,9 +34,9 @@ const IndexPage = () => (
             <h1>冯君 华中科技大学</h1>
                   <h3>博士 副教授 博士生导师 硕士生导师</h3>
             <p>Jun Feng is an Associate Professor at the School of Cyber Science and Engineering, Huazhong University of Science and Technology (HUST). 
-                He obtained his Ph.D. from the School of Computer Science and Technology at HUST. His research contributions are documented in over 50 publications in highly-regarded journals and prestigious conferences, 
-                including but not limited to IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Computers (TC), IEEE Transactions on Information Forensics and Security (TIFS), AAAI, 
-                IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Big Data (TBD), IEEE Transactions on Sustainable Computing (TSUSC), IEEE Wireless Communications, IEEE Internet of Things Journal (IoT-J), 
+                He obtained his Ph.D. from the School of Computer Science and Technology at HUST. His research contributions are documented in over 60 publications in highly-regarded journals and prestigious conferences, 
+                including but not limited to IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Computers (TC), IEEE Transactions on Information Forensics and Security (TIFS), 
+                IEEE S/&P, USENIX Security, AAAI, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Big Data (TBD), IEEE Transactions on Sustainable Computing (TSUSC), IEEE Wireless Communications, IEEE Internet of Things Journal (IoT-J), 
                 Information Sciences, and ACM Transactions on Internet Technology (TOIT). His research interests primarily focus on privacy-preserving machine learning, differential privacy, artificial intelligence security and privacy, 
                 deep learning, and big data. 
                 He currently serves as an Associate Editor on the editorial boards of IEEE Transactions on Information Forensics and Security (TIFS) and Information Fusion (INF).</p>
