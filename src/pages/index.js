@@ -39,7 +39,7 @@ const IndexPage = () => (
                 IEEE S&P, USENIX Security, AAAI, IEEE Transactions on Industrial Informatics (TII), IEEE Transactions on Big Data (TBD), IEEE Transactions on Sustainable Computing (TSUSC), IEEE Wireless Communications, IEEE Internet of Things Journal (IoT-J), 
                 Information Sciences, and ACM Transactions on Internet Technology (TOIT). His research interests primarily focus on privacy-preserving machine learning, differential privacy, artificial intelligence security and privacy, 
                 deep learning, and big data. 
-                He currently serves as an Associate Editor on the editorial boards of IEEE Transactions on Information Forensics and Security (TIFS) and Information Fusion (INF).</p>
+                He currently serves as an Associate Editor on the editorial boards of IEEE Transactions on Information Forensics and Security (TIFS), Information Fusion (INF), and Computers &amp; Security.</p>
 
             <p><span style={{ color: '#CC0000', fontWeight: 'bold' }}>[We Are Hiring!]</span> We are looking for motivated students. If you are interested in doing research with me, please feel free to contact me.
               I'm also looking for all kinds of collaborations, please drop me an email if you are interested.</p>
