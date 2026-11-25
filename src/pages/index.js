@@ -74,6 +74,15 @@ const IndexPage = () => (
         <section style={newsSectionStyles}>
           <h2>近期科研动态</h2>
              <ul>
+                <li>
+                  论文已正式发表，欢迎交流与合作！SwiftGuard面向客户端侧大模型安全推理，可落地使用。
+                  <br> 
+                  <em>SwiftGuard: Efficient TEE-Shielded On-Device LLM Inference via Self-Deobfuscation.</em>
+                  In 2027 IEEE Symposium on Security and Privacy (SP'27) (pp. 1037–1055).
+                  <a href="https://www.computer.org/csdl/proceedings-article/sp/2027/553600b037/2lvCUVB19rG">
+                    [Paper]
+                  </a>
+                </li>
                 <li>2026年10月，受邀担任顶级会议ICML 2027 Area Chair</li>
                 <li>2026年10月，指导硕士关于大模型后门攻击的论文被CCF A类期刊IEEE TDSC录用</li>
                 <li>2026年9月，指导硕士关于端侧TEEE保护的大模型推理论文被CCF A类会议IEEE S&P录用和关于安全推理的论文被CCF A类期刊IEEE TDSC录用</li>
