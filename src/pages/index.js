@@ -75,7 +75,7 @@ const IndexPage = () => (
           <h2>近期科研动态</h2>
              <ul>
                 <li>
-                    论文已正式发表，欢迎交流与合作！SwiftGuard面向客户端侧大模型安全推理，可落地使用。
+                    论文已正式发表，端侧大模型安全推理，可落地使用，欢迎交流与合作！
                     <br />
                     <em>SwiftGuard: Efficient TEE-Shielded On-Device LLM Inference via Self-Deobfuscation.</em>
                     In 2027 IEEE Symposium on Security and Privacy (SP'27) (pp. 1037–1055).
